@@ -4,7 +4,7 @@
 
 Sono uno sviluppatore web junior, appassionato di tecnologia, programmazione e sviluppo di applicazioni web.
 
-Ho completato un percorso di formazione in **Web Development Full Stack presso Volta Institute**, conseguendo il diploma con valutazione **85/100**.
+Ho completato un percorso di formazione in **Web Development Full Stack presso Volta Institute**, e ho conseguito anche una certificazione rilasciata da JS institute: **WDA - Certified Associate Web Developer**.
 
 Durante la mia formazione ho sviluppato progetti pratici utilizzando tecnologie frontend, backend e database relazionali.
 
